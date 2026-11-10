@@ -1,0 +1,24 @@
+
+Project Name: SpringSentry-AI
+
+Project Type: Full-Stack AI-Powered Application
+
+Description:
+SpringSentry AI is a code analysis and debugging platform that helps developers understand code errors, identify potential issues, and verify code using sample test cases.
+
+Technologies Used:
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- React
+- TypeScript
+- PostgreSQL
+- JWT Authentication
+- BharatCode AI API
+
+GitHub Repository:
+https://github.com/ashuuakk06/SpringSentry-AI
+
+Project Purpose:
+To build a platform that makes code analysis, debugging, and verification easier through AI integration.
