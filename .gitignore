@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+backend/target/
+backend/data/
+backend/.idea/
+sample-projects/calculator/target/
+*.log
+*.class
